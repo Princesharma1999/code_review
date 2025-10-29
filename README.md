@@ -2,8 +2,13 @@
 Class A {
 final String newValue = "";
 
-fun princSomething(){
-return "Hello";
+fun printSomething(){
+return "Hello i am doing good";
 
+}
+
+
+fun oddEven(){
+print("3 is odd number");
 }
 }
