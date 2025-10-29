@@ -3,7 +3,12 @@ Class A {
 final String newValue = "";
 
 fun princSomething(){
-return "Hello";
+return "Hello i am doing good";
 
+}
+
+
+fun oddEven(){
+print("2 is odd number");
 }
 }
